@@ -1,0 +1,22 @@
+1>
+npm init -y
+2>
+npm i dotenv ejs express express-ejs-layouts express-flash-messages express-session method-override mongoose
+3>
+npm i --save-dev nodemon
+4>
+npm install express-flash connect-flash
+
+5>
+npm i express-flash-message
+
+=====DB==Connection=====
+
+npm i mongoose
+
+***************************************
+net start MongoDB
+npm cache clean --force
+
+https://www.youtube.com/watch?v=PAm_QcN6Ffs&t=316s
+https://raddy.dev/blog/user-management-system-nodejs-express-mongodb-ejs-crud/

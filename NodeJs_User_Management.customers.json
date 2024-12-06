@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "674eb4a67d27adb473b464be"
+  },
+  "firstName": "sumit",
+  "lastName": "roy",
+  "tel": "876543138",
+  "email": "sumit@gmail.com",
+  "details": "Test sumit",
+  "createdAt": {
+    "$date": "2024-12-03T07:34:06.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T07:34:06.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674eb5b18338a893135ca8e7"
+  },
+  "firstName": "sumit",
+  "lastName": "roy",
+  "tel": "876543138",
+  "email": "sumit@gmail.com",
+  "details": "Test sumit",
+  "createdAt": {
+    "$date": "2024-12-03T07:39:15.621Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T07:39:15.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674eb72e97434314ebd2fb6e"
+  },
+  "firstName": "sumit",
+  "lastName": "roy",
+  "tel": "876543138",
+  "email": "sumit@gmail.com",
+  "details": "Test sumit",
+  "createdAt": {
+    "$date": "2024-12-03T07:45:49.868Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T07:45:49.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674eb789105993a186e8a758"
+  },
+  "firstName": "Rahul",
+  "lastName": "Roy",
+  "tel": "8656454362",
+  "email": "rahul@gmail.com",
+  "details": "test rahul",
+  "createdAt": {
+    "$date": "2024-12-03T07:46:01.813Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T07:46:01.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ec0780472a709331238fe"
+  },
+  "firstName": "Rahul",
+  "lastName": "Dutta",
+  "tel": "794565862",
+  "email": "rahul@gmail.com",
+  "details": "rahul test",
+  "createdAt": {
+    "$date": "2024-12-03T08:22:42.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T08:22:42.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ec30ecbafb589869d0451"
+  },
+  "firstName": "sumit",
+  "lastName": "roy",
+  "tel": "9876646465",
+  "email": "sumit@gmail.com",
+  "details": "Test gmail",
+  "createdAt": {
+    "$date": "2024-12-03T08:35:09.531Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T08:35:09.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ec6d8b8b5a83c7d638607"
+  },
+  "firstName": "Sukanta",
+  "lastName": "Biswas",
+  "tel": "07890067002",
+  "email": "sukantab566@gmail.com",
+  "details": "test sukanta",
+  "createdAt": {
+    "$date": "2024-12-03T08:50:52.583Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T08:50:52.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ffd116b235a94712fae62"
+  },
+  "firstName": "Mita",
+  "lastName": "Biswas",
+  "tel": "864659563",
+  "email": "mita@gmail.com",
+  "details": "Test mita",
+  "createdAt": {
+    "$date": "2024-12-04T06:48:17.147Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T06:48:17.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ffd386b235a94712fae64"
+  },
+  "firstName": "Sumita",
+  "lastName": "Biswas",
+  "tel": "754646182",
+  "email": "sumita@gmail.com",
+  "details": "Test sumita",
+  "createdAt": {
+    "$date": "2024-12-04T06:48:17.147Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T06:48:17.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ffd9a6b235a94712fae66"
+  },
+  "firstName": "Anup",
+  "lastName": "Dutta",
+  "tel": "765463182",
+  "email": "anup@gmail.com",
+  "details": "Test anup",
+  "createdAt": {
+    "$date": "2024-12-04T06:48:17.147Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T08:00:11.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675007943a0f56504a00cbfa"
+  },
+  "firstName": "Amit",
+  "lastName": "Roy",
+  "tel": "79461852153",
+  "email": "amit@gmail.com",
+  "details": "Test amit",
+  "createdAt": {
+    "$date": "2024-12-04T07:38:30.411Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T07:38:30.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67500a252eb3744b4d666aa8"
+  },
+  "firstName": "Ratan",
+  "lastName": "Das",
+  "tel": "865338575268",
+  "email": "ratan@gmail.com",
+  "details": "Test ratan",
+  "createdAt": {
+    "$date": "2024-12-04T07:43:32.106Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T07:43:32.106Z"
+  },
+  "__v": 0
+}]
